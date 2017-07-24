@@ -1,0 +1,22 @@
+hr {
+	width: 550px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.jumbotron{
+	background-image: url(wallpaper.png);
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+#textcolor{
+	color: #F8F9F9;
+}
+p.big{
+	line-height: 200%;
+	letter-spacing: 2px;
+}
+.space{
+	letter-spacing: 2px;
+
+}
