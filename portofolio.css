@@ -4,7 +4,7 @@ hr {
 	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 .jumbotron{
-	background-image: url(wallpaper.png);
+	background-image: url(wallpaper.jpg);
 }
 body{
 	font-family: 'Montserrat', sans-serif;
@@ -19,4 +19,11 @@ p.big{
 .space{
 	letter-spacing: 2px;
 
+}
+.footer{
+	background-color: #4C9999;
+}
+ul li{
+	list-style-type: none;
+	color: blue;
 }
